@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sxm:home|Door43 (sxm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sxm|d43-sxm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sxm/archive/master.zip|d43-sxm.zip]]
+
+**Recent Changes**
+{{changes>ns = sxm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sxm|Ethnologue data]]
+
